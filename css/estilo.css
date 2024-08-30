@@ -1,0 +1,48 @@
+.containerUm {
+    display: flex;
+    margin: 0 auto;
+    height:600px;
+    width: 800px;
+    flex-direction: column;
+}
+
+.containerDois {
+    display: flex;
+    flex: 1;
+    background-color: darkblue;
+}
+
+.containerTres {
+    display: flex;
+    flex: 2;
+    flex-direction: row;
+}
+
+.containerMenu {
+    display: flex;
+    background-color: cornflowerblue;
+    flex: 1;
+    flex-direction: column;
+}
+
+.containerItem {
+    background-color: yellowgreen;
+    
+}
+
+.containerAd {
+    display: flex;
+    background-color: cornflowerblue;
+    flex: 1;
+}
+
+.containerCinco {
+    display: flex;
+    background-color: lightblue;
+    flex: 2;
+    flex-direction: column;
+}
+
+.containerItem {
+    background-color: yellowgreen;
+}

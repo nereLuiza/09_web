@@ -105,9 +105,61 @@
     flex-direction: column;
 }
 
+.contentTres p{
+    padding: 20px;
+}
+
 .contentTres h1{
     background-color: deeppink;
     border: 20px solid deeppink;
     margin-top: -10px;
     color: lightpink;
+}
+
+/*pagina tres*/
+
+.blocoPai {
+    height: 50vh;
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 35px;
+    margin-top: 90px
+}
+
+.blocoUm {
+    height: 20vh;
+    flex: 1;
+    background-color: lightgreen;
+}
+
+.blocoDois {
+    height: 30vh;
+    flex: 1;
+    background-color: chartreuse;
+}
+
+.blocoTres {
+    height: 15vh;
+    flex: 1;
+    background-color: lightgreen;
+}
+
+.blocoQuatro {
+    height: 35vh;
+    flex: 1;
+    background-color: chartreuse;
+}
+
+.blocoCinco {
+    height: 50vh;
+    flex: 1;
+    background-color: lightgreen;
+}
+
+.blocoSeis {
+    height: 20vh;
+    flex: 1;
+    background-color: chartreuse;
 }
